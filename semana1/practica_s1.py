@@ -85,7 +85,8 @@ while True:
 
 print(f"Acá tiene su ticket, lo esperamos la próxima! ")
 print(f"###########################")
-print(nombre)
+print(f"Nombre: ",nombre)
+print(f"Edad: ", edad)
 print(f"Cantidad de veces subido al carrusel: ", contador_carrusel)
 print(f"Cantidad de veces que entró a la Casa del Terror: ", contador_terror)
 print(f"Cantidad de veces que subió a la Montaña Rusa: ", contador_montaña)
